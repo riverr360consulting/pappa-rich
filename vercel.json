@@ -1,5 +1,5 @@
 {
-  "projectName": "pappa-rich-shoe-laundry",
+  "name": "pappa-rich-shoe-laundry",
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
