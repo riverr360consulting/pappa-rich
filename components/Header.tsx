@@ -10,10 +10,6 @@ import type { NavLink } from '@/types/index';
 export const Header: React.FC = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState<boolean>(false);
 
-  const handleBookNow = (): void => {
-    // Will redirect to contact page
-  };
-
   const handleWhatsApp = (): void => {
     openWhatsApp(
       CONTACT_INFO.whatsapp,

@@ -1,4 +1,4 @@
-import { Shield, Droplet, Wind, Heart, Clock, Star, Leaf, CheckCircle, Zap } from 'lucide-react';
+import { Clock, Star, Leaf, CheckCircle, Zap } from 'lucide-react';
 
 export const metadata = {
   title: 'Our Services | Pappa Rich Shoe Laundry',
