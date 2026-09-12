@@ -1,13 +1,5 @@
 {
-  "projectName": "pappa-rich-shoe-laundry",
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
-  "installCommand": "npm install",
-  "env": {
-    "NEXT_PUBLIC_SITE_NAME": "@next_public_site_name",
-    "NEXT_PUBLIC_SITE_URL": "@next_public_site_url",
-    "NEXT_PUBLIC_PHONE": "@next_public_phone",
-    "NEXT_PUBLIC_EMAIL": "@next_public_email",
-    "NEXT_PUBLIC_WHATSAPP": "@next_public_whatsapp"
-  }
+  "installCommand": "npm install"
 }
